@@ -95,7 +95,7 @@ header{
 
 header{
 	width: 100%;
-	height: 100vh;
+	height: vh;
 	background: radial-gradient(#fff,#ffd6d6) ;
 }
 
