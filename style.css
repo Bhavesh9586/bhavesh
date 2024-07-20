@@ -142,7 +142,9 @@ nav{
 	transform-origin: center;
 	perspective: 2000px;
 	width: 100%;
-	background-image:url(s5.jpg);
+	background: radial-gradient(#fff,#ffd6d6) ;
+}
+
 }
 
 .best{
